@@ -1,0 +1,3 @@
+[submodule "LIEF"]
+	path = LIEF
+	url = git@github.com:Miniman2718/LIEF.git
